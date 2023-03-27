@@ -6,4 +6,4 @@
 
 ## 1. 설치
 
-₩₩₩ brew install kind ₩₩₩
+''' brew install kind '''
